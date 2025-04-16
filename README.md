@@ -11,7 +11,7 @@ Inspired by base-aware digit sums and digital root consistency
 ## Live Demo
 
 Check out the interactive tool here:  
-[https://studentshivang.github.io/cool-digit-sum-conjecture](https://studentshivang.github.io/cool-digit-sum-conjecture)
+[https://studentshivang.github.io/cool-digit-sum-conjecture-/](https://studentshivang.github.io/cool-digit-sum-conjecture-/).
 
 ---
 
