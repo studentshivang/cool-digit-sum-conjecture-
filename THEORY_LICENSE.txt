@@ -1,0 +1,8 @@
+The "Cool Digit Sum Conjecture" theory, examples, and write-up are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+This means you may share and adapt the content as long as you:
+- Give appropriate credit to Shivang Dwivedi.
+- Do not use it for commercial purposes.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
