@@ -45,9 +45,26 @@ Thank you chatgpt
 ---
 
 ## License
+### Code — AGPL v3
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to fork and contribute—but please credit the original idea to **Shivang Dwivedi**.
+This code is licensed under the **GNU Affero General Public License v3.0**.  
+You can reuse, adapt, and build on it for open-source purposes — but must also share your changes under the same license.
+
+Full license in the `LICENSE` file or [view online](https://www.gnu.org/licenses/agpl-3.0.html)
+
+---
+
+### Theory — Creative Commons BY-NC 4.0
+
+All writeups, explanations, and conjecture theory are under:
+
+**CC BY-NC 4.0** — *Attribution-NonCommercial*
+
+- You may **share** and **adapt** the theory as long as:
+  - You **credit Shivang Dwivedi**.
+  - You **do not use it commercially**.
+
+Full license: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
