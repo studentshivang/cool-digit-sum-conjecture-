@@ -34,7 +34,14 @@ This tool allows you to test this with:
 - Shows intermediate steps: digit sums, conversions, digital roots
 - Preloaded with multiple base-10 examples for better understanding
 - Open source, easy to extend
+- 
+---
 
+## Fun Fact
+
+This project — from recalling the idea this time around to full deployment — was created in **less than 2 hours**  
+as a spontaneous and fun mathematical experiment by **Shivang Dwivedi**.
+Thank you chatgpt 
 ---
 
 ## License
